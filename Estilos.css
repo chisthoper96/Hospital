@@ -1,0 +1,61 @@
+﻿body {
+
+    background: linear-gradient(-45deg, #EE7752, #E73C73, #23A6D5, #23D5AB);
+    height: 100vh; 
+    background-size:320% 320%;
+    margin: 0; 
+
+
+}
+#pagInicio {
+    padding: 40px;
+    width: 20%;
+    height: 50%;
+    border: 3px solid #F4F6F6;
+    border-radius: 10%;
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    text-align: center;
+    background: transparent;
+    color: white;
+}
+#txtHospitalGeneral{
+   font-size:32px;
+}
+
+.diseñoInput {
+    background: #F4F6F6;
+    border-radius: 40px;
+    height: 25px;
+    border: 2px solid #DC7633;
+}
+
+#btnIngresar {
+    border-radius: 40px;
+    width: 150px;
+    height: 30px;
+    background: #F4F6F6;
+}
+.linkMenu {
+    margin: 0px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+#tituloMenu {
+    font-size: 30px;
+    color: white;
+    padding-left:540px;
+}
+
+#linkMantencionDePacientes,#linkMantencionDeMedicos,#linkIngresoDeAtenciones,#linkConsultaDeMedicos,#linkConsultaDePacientes,#linkConsultaDeAtencion{
+text-decoration:none;
+color: aliceblue;
+font-size: 20px;
+}
+
+
